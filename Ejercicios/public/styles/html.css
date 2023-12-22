@@ -30,7 +30,7 @@ header {
 
 .developer-img {
     width: 100%;
-    height: 250px;
+    height: 100;
     border-bottom: 2px solid #eee;
 }
 
@@ -44,7 +44,6 @@ header {
 
 .developer-description {
     color: #666;
-    max-height: 45%;
 }
 
 nav {
@@ -65,10 +64,4 @@ nav {
   .boton:hover {
     background-color: #000000;
     color: #ff0303;
-  }
-
-  .git {
-    display: block;
-    width: 45%;
-    height: 45%;
   }

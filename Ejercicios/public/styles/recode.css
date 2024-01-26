@@ -48,7 +48,7 @@ header {
 
 nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 
   }
   
@@ -59,9 +59,26 @@ nav {
     border-radius: 5px;
     cursor: pointer;
     text-decoration: none;
+    box-shadow: 0px 0px 10px 5px white;
   }
   
   .boton:hover {
     background-color: #000000;
     color: #ff0303;
   }
+
+  .brillo{
+
+    box-shadow: 0px 0px 10px 5px white;
+}
+
+footer {
+    background-color: #333333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: h1;
+    bottom: 0;
+   
+    
+}

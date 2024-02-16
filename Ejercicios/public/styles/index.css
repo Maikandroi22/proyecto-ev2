@@ -108,8 +108,15 @@ video{
 }
 
 .brillo{
-
+    border: none;
+border-radius: 10px;
     box-shadow: 0px 0px 10px 5px white;
+}
+
+.brillo:hover {
+    background-color: #000000;
+    color: #e9e9e9;
+    
 }
 
 footer {
@@ -118,7 +125,7 @@ footer {
     color: #fff;
     text-align: center;
     padding: 5px 10px;
-    margin-top: -24px;
+    margin-top: -16px;
     bottom: 0;
    
     

@@ -59,12 +59,13 @@ img:hover{
 }
 
 .developer-name {
-    color: #333;
+    color: #000000;
 }
 
 .developer-description {
-    color: #666;
+    color: #000000;
     max-height: 45%;
+    font-family: fantasy;
 }
 
 nav {

@@ -58,11 +58,12 @@ video{
 }
 
 .developer-name {
-    color: #333;
+    color: #000000;
 }
 
 .developer-description {
-    color: #666;
+    color: #000000;
+    font-family: fantasy;
 }
 
 nav {

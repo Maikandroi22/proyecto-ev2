@@ -73,8 +73,9 @@ video{
   .card p {
     padding: 1rem;
     margin: 0;
-    font-size: 0.9rem;
-    color: #666;
+    font-size: 1.0rem;
+    color: #000000;
+    font-family: fantasy;
   }
   
   
